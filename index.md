@@ -19,6 +19,3 @@ My past projects span **succinct data structures**, **distributed deep learning*
 - **[Apr. 2025]** I'm starting a 6-months internship about *mathematical approaches to evolutionary neuroscience* and *distributed foraging hypothesis* at *INRIA* (France).
 - **[Nov. 2024]** I'm starting an internship about *Succint Data Structures* at *Tor Vergata University of Rome*.
 - **[Jul. 2024]** I'm starting an internship about *high-performance machine learning* at *Sapienza University*.
-
-
-{% include_relative _includes/publications.md %}
