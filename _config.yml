@@ -2,7 +2,7 @@
 title: Matteo Stromieri
 position: Master's student
 affiliation: University of Rome Tor Vergata, INRIA
-email: name (dot) surname (at) students (dot) uniroma2 (dot) eu
+email: name [dot] surname [at] students [dot] uniroma2 [dot] eu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -12,7 +12,7 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
+google_scholar: https://scholar.google.com/citations?user=KVrWdscAAAAJ&hl=en
 # cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/MatteoStromieri
 linkedin: https://it.linkedin.com/in/matteo-stromieri-8336a31b8
