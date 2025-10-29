@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am a Master's student in Computer Science and an incoming PhD candidate in Theoretical Computer Science at the *University of Haifa*, supervised by Amos Korman. My research sits at the intersection of algorithms and the natural sciences, focusing on **Complex Systems** and **Distributed Computing**, particularly their manifestations in biological contexts. My toolkit includes classical algorithmic and probabilistic methods from theoretical computer science, with a touch of machine learning, helping algorithms see what pen and paper can’t.
+I am a Master's student in Computer Science and an incoming PhD candidate in Theoretical Computer Science at the *University of Haifa*, supervised by Amos Korman and Emanuele Natale. My research sits at the intersection of algorithms and the natural sciences, focusing on **Complex Systems** and **Distributed Computing**, particularly their manifestations in biological contexts. My toolkit includes classical algorithmic and probabilistic methods from theoretical computer science, with a touch of machine learning, helping algorithms see what pen and paper can’t.
 
 My previous projects include work on **succinct data structures** and **distributed deep learning**. Beyond my core research areas, I am broadly curious about **Dynamical Systems**, **Combinatorics**, **Games**, **Geometry**, and the interface between theory and real-world phenomena.
 
