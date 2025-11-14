@@ -1,8 +1,8 @@
 # Basic Information
 title: "Matteo Stromieri"
-position: "Master's student"
-affiliation: "University of Rome Tor Vergata, INRIA"
-email: "[name][dot][surname][at]students[dot]uniroma2[dot]eu"
+position: "PhD student"
+affiliation: "University of Haifa, INRIA"
+email: "matt[dot][surname][at][google-mail].com"
 
 # Search Engine Optimization (SEO)
 keywords: "Matteo Stromieri"
@@ -17,7 +17,7 @@ linkedin: "https://it.linkedin.com/in/matteo-stromieri-8336a31b8"
 # twitter: "https://twitter.com/"
 
 # Images
-avatar: "./assets/img/avatar.jpg"
+avatar: "./assets/img/avatar.png"
 favicon: "./assets/img/favicon.png"
 favicon_dark: "./assets/img/favicon-dark.png"
 
