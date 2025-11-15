@@ -28,7 +28,7 @@ enable_footnote: false
 auto_dark_mode: false
 
 # Font
-font: "Serif" # or "Sans Serif"
+font: "Sans Serif" # or "Sans Serif"
 
 # Google Analytics ID
 google_analytics: "UA-111540567-4"
